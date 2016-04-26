@@ -1,0 +1,5 @@
+#HEADER streams:4 size:1024 pyramidHeight:1 simTime:10000
+#BEGIN Y:2015 M:11 D:20 Time:01:44:11
+#IT Ite:0 KerTime:10.020845 AccTime:10.020845
+#IT Ite:1 KerTime:10.020940 AccTime:20.041785
+#IT Ite:2 KerTime:10.020990 AccTime:30.062775

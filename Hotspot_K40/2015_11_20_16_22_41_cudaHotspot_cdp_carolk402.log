@@ -1,0 +1,20 @@
+#HEADER streams:8 size:1024 pyramidHeight:1 simTime:1000
+#BEGIN Y:2015 M:11 D:20 Time:16:22:41
+#IT Ite:0 KerTime:1.997530 AccTime:1.997530
+#IT Ite:1 KerTime:1.997084 AccTime:3.994614
+#IT Ite:2 KerTime:1.996853 AccTime:5.991467
+#IT Ite:3 KerTime:1.996968 AccTime:7.988435
+#IT Ite:4 KerTime:1.997174 AccTime:9.985609
+#IT Ite:5 KerTime:1.997460 AccTime:11.983069
+#IT Ite:6 KerTime:1.997542 AccTime:13.980611
+#IT Ite:7 KerTime:1.997643 AccTime:15.978254
+#IT Ite:8 KerTime:1.997371 AccTime:17.975625
+#IT Ite:9 KerTime:1.997092 AccTime:19.972717
+#IT Ite:10 KerTime:1.996991 AccTime:21.969708
+#IT Ite:11 KerTime:1.996785 AccTime:23.966493
+#IT Ite:12 KerTime:1.996625 AccTime:25.963118
+#IT Ite:13 KerTime:1.996849 AccTime:27.959967
+#IT Ite:14 KerTime:1.996920 AccTime:29.956887
+#IT Ite:15 KerTime:1.996937 AccTime:31.953824
+#IT Ite:16 KerTime:1.997089 AccTime:33.950913
+#IT Ite:17 KerTime:1.997071 AccTime:35.947984
