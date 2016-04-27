@@ -1,8 +1,0 @@
-#HEADER -n512-t5000-g10-Gdata-jmd5file
-#BEGIN Y:2015 M:11 D:21 Time:15:12:33
-#IT Ite:0 KerTime:4.781331 AccTime:4.781331
-#IT Ite:10 KerTime:4.558258 AccTime:52.553321
-#IT Ite:20 KerTime:4.847240 AccTime:99.940680
-#IT Ite:30 KerTime:4.657157 AccTime:146.837038
-#IT Ite:40 KerTime:4.748138 AccTime:194.570818
-#IT Ite:50 KerTime:4.933388 AccTime:242.590747
